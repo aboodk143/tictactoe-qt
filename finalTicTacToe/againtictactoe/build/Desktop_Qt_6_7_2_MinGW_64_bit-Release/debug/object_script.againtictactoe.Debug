@@ -1,0 +1,10 @@
+debug/database.o
+debug/gamewindow.o
+debug/loginwindow.o
+debug/main.o
+debug/mainwindow.o
+debug/registerwindow.o
+debug/moc_gamewindow.o
+debug/moc_loginwindow.o
+debug/moc_mainwindow.o
+debug/moc_registerwindow.o
